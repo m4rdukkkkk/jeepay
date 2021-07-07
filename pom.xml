@@ -44,6 +44,10 @@
     <spring.security.version>5.4.6</spring.security.version> <!-- 用于core的scope依赖 -->
     <jjwt.version>0.9.1</jjwt.version>
     <binarywang.weixin.java.version>4.1.0</binarywang.weixin.java.version>
+    <sonar.projectKey>m4rdukkkkk_jeepay</sonar.projectKey>
+    <sonar.organization>m4rdukkkkk</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
 
   </properties>
 
